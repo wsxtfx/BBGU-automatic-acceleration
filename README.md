@@ -11,6 +11,8 @@
 
 用node运行/BBGU-automatic acceleration/src/main.js
 
+需要在下载过程中再使用脚本！！！
+
 ## 效果图
 <img width="1894" height="1540" alt="21801" src="https://github.com/user-attachments/assets/aa672b40-2e61-4952-a8fa-14878d5e63a5" />
 
