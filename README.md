@@ -8,3 +8,6 @@
 ## 使用步骤
 
 用node运行/src/main.js
+
+## 感谢
+@songyun86
